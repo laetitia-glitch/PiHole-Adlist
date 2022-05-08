@@ -4,6 +4,24 @@
 # Social Trackers #
 ###################
 
+# Pinterest
+ads.pinterest.com
+log.pinterest.com
+ads-dev.pinterest.com
+analytics.pinterest.com
+trk.pinterest.com
+widgets.pinterest.com
+
+# Reddit
+ads.reddit.com
+d.reddit.com
+rereddit.com
+events.redditmedia.com
+
+# YouTube
+ads.youtube.com
+youtube.cleverads.vn
+
 # TikTok
 analytics.tiktok.com
 ads.tiktok.com
