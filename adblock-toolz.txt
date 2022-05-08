@@ -1,1 +1,22 @@
 # Block ads & trackers based on https://d3ward.github.io/toolz/adblock.html
+
+#######
+# OEM #
+#######
+
+# Xiaomi
+https://api.ad.xiaomi.com
+https://app.chat.xiaomi.net
+https://data.mistat.xiaomi.com
+https://data.mistat.intl.xiaomi.com
+https://data.mistat.india.xiaomi.com
+https://data.mistat.rus.xiaomi.com
+https://sdkconfig.ad.xiaomi.com
+https://sdkconfig.ad.intl.xiaomi.com
+https://globalapi.ad.xiaomi.com
+https://www.cdn.ad.xiaomi.com
+https://sa.api.intl.miui.com
+https://tracking.miui.com
+https://tracking.intl.miui.com
+https://tracking.india.miui.com
+https://tracking.rus.miui.com
