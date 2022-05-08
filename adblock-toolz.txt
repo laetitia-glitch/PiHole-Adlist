@@ -1,5 +1,19 @@
 # Block ads & trackers based on https://d3ward.github.io/toolz/adblock.html
 
+##################
+# Error Trackers #
+##################
+
+# Bugsnag
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+
+# Sentry
+browser.sentry-cdn.com
+app.getsentry.com
+
 ###################
 # Social Trackers #
 ###################
