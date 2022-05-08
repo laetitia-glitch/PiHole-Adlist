@@ -1,5 +1,12 @@
 # Block ads & trackers based on https://d3ward.github.io/toolz/adblock.html
 
+#############
+# Analytics #
+#############
+
+# Stats WP Plugin
+stats.wp.com
+
 ##################
 # Error Trackers #
 ##################
