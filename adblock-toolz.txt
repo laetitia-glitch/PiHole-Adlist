@@ -1,5 +1,15 @@
 # Block ads & trackers based on https://d3ward.github.io/toolz/adblock.html
 
+###################
+# Social Trackers #
+###################
+
+# TikTok
+analytics.tiktok.com
+ads.tiktok.com
+analytics-sg.tiktok.com
+ads-sg.tiktok.com
+
 #######
 # Mix #
 #######
