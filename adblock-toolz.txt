@@ -38,3 +38,23 @@ https://analytics.oneplus.cn
 https://click.oneplus.cn
 https://click.oneplus.com
 https://open.oneplus.net
+
+# Samsung
+https://ad.samsungadhub.com
+https://samsungadhub.com
+https://samsungads.com
+https://smetrics.samsung.com
+https://nmetrics.samsung.com
+https://samsung-com.112.2o7.net
+https://business.samsungusa.com
+https://analytics.samsungknox.com
+https://bigdata.ssp.samsung.com
+https://analytics-api.samsunghealthcn.com
+https://config.samsungads.com
+
+# Apple
+# https://metrics.apple.com
+# https://securemetrics.apple.com
+# https://supportmetrics.apple.com
+# https://metrics.icloud.com
+# https://metrics.mzstatic.com
