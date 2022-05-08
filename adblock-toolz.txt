@@ -1,8 +1,39 @@
 # Block ads & trackers based on https://d3ward.github.io/toolz/adblock.html
 
+#######
+# Ads #
+#######
+
+
+
 #############
 # Analytics #
 #############
+
+# Google Analytics
+google-analytics.com
+ssl.google-analytics.com
+
+# Hotjar
+hotjar.com
+static.hotjar.com
+api-hotjar.com
+hotjar-analytics.com
+
+# MouseFlow
+mouseflow.com
+a.mouseflow.com
+
+# FreshMarketer
+freshmarketer.com
+
+# Luckyorange
+luckyorange.com
+cdn.luckyorange.com
+w1.luckyorange.com
+upload.luckyorange.net
+cs.luckyorange.net
+settings.luckyorange.net
 
 # Stats WP Plugin
 stats.wp.com
