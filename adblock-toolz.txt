@@ -20,3 +20,21 @@ https://tracking.miui.com
 https://tracking.intl.miui.com
 https://tracking.india.miui.com
 https://tracking.rus.miui.com
+
+# Huawei
+https://metrics.data.hicloud.com
+https://metrics1.data.hicloud.com
+https://metrics2.data.hicloud.com
+https://metrics3.data.hicloud.com
+https://metrics4.data.hicloud.com
+https://metrics5.data.hicloud.com 
+https://logservice.hicloud.com
+https://logservice1.hicloud.com
+https://metrics-dra.dt.hicloud.com
+https://logbak.hicloud.com
+
+# OnePlus
+https://analytics.oneplus.cn
+https://click.oneplus.cn
+https://click.oneplus.com
+https://open.oneplus.net
