@@ -4,6 +4,22 @@
 # Social Trackers #
 ###################
 
+# Facebook
+pixel.facebook.com
+analytics.facebook.com
+ads.facebook.com
+an.facebook.com
+
+# Twitter
+ads-twitter.com
+static.ads-twitter.com
+ads-api.twitter.com
+advertising.twitter.com
+
+# LinkedIn
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+
 # Pinterest
 ads.pinterest.com
 log.pinterest.com
