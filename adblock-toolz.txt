@@ -1,6 +1,23 @@
 # Block ads & trackers based on https://d3ward.github.io/toolz/adblock.html
 
 #######
+# Mix #
+#######
+
+# Yahoo
+ads.yahoo.com
+global.adserver.yahoo.com
+analytics.yahoo.com
+ads.yap.yahoo.com
+
+# Yandex
+appmetrica.yandex.com
+yandexadexchange.net
+analytics.mobile.yandex.net
+extmaps-api.yandex.net
+adsdk.yandex.ru
+
+#######
 # OEM #
 #######
 
